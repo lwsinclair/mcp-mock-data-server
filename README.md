@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jnjsoftapp-mcp-mock-data-server-badge.png)](https://mseep.ai/app/jnjsoftapp-mcp-mock-data-server)
+
 # MCP Mock Data Server
 
 Faker.js 기반 Mock 데이터 생성 MCP 서버
